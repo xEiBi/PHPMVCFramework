@@ -1,0 +1,15 @@
+{
+    "name": "xeibi/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Alejandro Rea",
+            "email": "xeibij@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
